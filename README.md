@@ -36,7 +36,7 @@ Read Miss Rate =             0.721030 %
 
 ## Build
 
-g++ main.cpp -std=c++11
+g++ *.cpp -std=c++11
 
 ## Analysis - Associativity
 
